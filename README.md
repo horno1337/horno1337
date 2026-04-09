@@ -1,6 +1,6 @@
 
 Software engineer. 2+ years in C++ production systems.
-Currently focused on ML engineering and reinforcement learning.
+Interested in ML engineering and reinforcement learning.
 
 ## Projects
 
