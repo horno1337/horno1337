@@ -5,7 +5,6 @@ Interested in ML engineering and reinforcement learning.
 ## Projects
 
 - [**solar-grid**](https://github.com/horno1337/solar-grid) — Full-stack solar energy analytics tool for the Polish energy market. Live weather, ENTSO-E pricing, PSE grid data, LightGBM model for forecasting.
-- **rl-order-execution** — PPO-based optimal order execution agent. *work in progress*
 
 ## Stack
 
