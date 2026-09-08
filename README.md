@@ -2,8 +2,8 @@ Software engineer. 2+ years in C++ production systems.
 Interested in ML engineering and reinforcement learning.
 
 ## Projects
+- [**ptcg-agent**](https://github.com/horno1337/ptcg-agent) — Layered NumPy Agent for the Kaggle Pokémon TCG AI Battle Challenge
 - [**rl-pokerlab**](https://github.com/horno1337/rl-pokerlab) — No-Limit Hold'em RL environment using Gymnasium interface, PPO training pipeline, and GTO comparison tools.
-- [**solargrid**](https://github.com/horno1337/solar-grid) — Full-stack solar energy analytics tool for the Polish energy market. Live weather, ENTSO-E pricing, PSE grid data, LightGBM model for forecasting.
 
 ## Stack
 
